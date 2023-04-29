@@ -1,0 +1,2 @@
+1. your not allowed to write any production code unless its is to make a failing test pass
+2. your not allowed to write any more of a unit test than is sufficient to fail.
