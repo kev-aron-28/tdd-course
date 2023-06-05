@@ -1,5 +1,9 @@
 import { arrAllDigitsEven } from "./event-digits";
 
+// returns true if all digits of a number are event
+// returns false if all digits of a number are odd
+
+
 // Green bar pattern: known ways to get to green
 
 // one to many: start with a single item before moving to a colletion
