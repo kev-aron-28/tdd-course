@@ -1,0 +1,17 @@
+Principles:
+    - FIRST principles
+
+
+Practices:
+    - 3 laws of TDD
+    - Red green refactor
+    - Equivalence partitions and boundaries
+    - The stages of naming
+
+Green bar patterns:
+    - Fake it
+    - Triangulation
+    - One to many
+    - Obvious
+    - Backout
+    - Learning test
